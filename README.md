@@ -5,14 +5,14 @@ Microservicio responsable del procesamiento de pagos, validación de transaccion
 Aplicación principal
 - https://github.com/Code7Zero/app-commerce
 
-Microservicios
+#Microservicios
 - https://github.com/Code7Zero/ms-catalogo
 - https://github.com/Code7Zero/ms-compras
 - https://github.com/Code7Zero/ms-inventario
 
-Configuración de Docker y Traefik
+#Configuración de Docker y Traefik
 - https://github.com/Code7Zero/docker-config
-Equipo de desarrollo:
+#Equipo de desarrollo:
 - Marcos Aranda
 - Luanna Guajardo
 - Axel Sanchez
